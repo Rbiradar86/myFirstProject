@@ -2,9 +2,9 @@ name: Rest Assured API Tests with Reports
 
 on:
   push:
-    branches: [ main ]
+    branches: [ feature/MP-04/ci-setup ]
   pull_request:
-    branches: [ main ]
+    branches: [ feature/MP-04/ci-setup ]
 
 jobs:
   test:
