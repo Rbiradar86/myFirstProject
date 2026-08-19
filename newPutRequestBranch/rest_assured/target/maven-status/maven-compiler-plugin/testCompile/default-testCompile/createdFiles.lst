@@ -1,7 +1,0 @@
-com\rest_assured\tests\SecondApiTest.class
-Utils\payloadUtil.class
-com\rest_assured\tests\setEnvVariable.class
-com\rest_assured\tests\thirdApiTest.class
-com\rest_assured\tests\firstApiTest.class
-com\rest_assured\tests\paymentApi.class
-Utils\reportUtilities.class
