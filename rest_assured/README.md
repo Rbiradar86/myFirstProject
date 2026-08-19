@@ -1,1 +1,1 @@
-echo "Test commit to trigger workflow" >> README.md
+echo "Test commits to trigger workflow" >> README.md
